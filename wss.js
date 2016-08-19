@@ -28,7 +28,8 @@ switch(quest) {
     alert("Said with a smile it means 'convince me'. Said with a straight face means 'probably not'.");
     break;
     case "I love you":
-    alert("She loves you.")
+    alert("She loves you.");
+    break;
     default:
     alert("She meant exactly what she said. You need to remember that " + name + " is already " + age + " years old on earth and really don't care speaking her mind anymore.");
     break;
