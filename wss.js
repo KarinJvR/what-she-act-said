@@ -19,7 +19,7 @@ switch(quest) {
     alert("If it was said under a full moon, " + name + " was feeling pressure from the trees and really meant to say: I really need to leave this party now, but you keep on talking to me, so I will say I like you because I know it will make you think about it and give me a break to leave. If it was not a full moon, you might be in luck that she really likes you! My advise is to go for it anyway and tell her you like her too :)");
     break;
     case "What did you say?":
-    alert(name + " suggests that you restructure your sentence into something that makes sense to her. Or more likely giving you the opportunity to either apologise and say something nice. About her preferrably.");
+    alert(name + " suggests that you restructure your sentence into something that makes sense to her. In other words apologise and say something nice.");
     break;
     case "I'm fine":
     alert("You better stop asking " + name + " if she is fine. She is fine, but will soon not be anymore if you keep on asking.");
